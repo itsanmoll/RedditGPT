@@ -1,0 +1,125 @@
+REDDIT USER PERSONA ANALYSIS
+==================================================
+
+Username: kojied
+Analysis Date: 2025-07-14 21:09:51
+Account Age: 2020 days
+Total Karma: 2039
+Posts Analyzed: 25
+Comments Analyzed: 25
+
+PERSONA ANALYSIS
+------------------------------
+
+## 1. DEMOGRAPHICS
+**Age Range:** 25-40 years old (Medium Confidence)
+**Location:** New York City (High Confidence)
+**Occupation/Field:** Possibly a developer or tech enthusiast, with interests in iOS development and spatial computing (Medium Confidence)
+**Citations:** 
+- The user's post about feeling violated by intern season in a bar near their house suggests they are likely an adult, possibly in their 20s or 30s ("I feel violated by intern season" - https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/).
+- Their participation in r/newyorkcity and mention of specific locations (e.g., a bar a few blocks away from their house) indicate they are likely from New York City.
+- Their interest in iOS development and spatial computing, as seen in posts like "Best blogs, tutorial channels to learn" (https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/), suggests a career or strong interest in tech.
+
+## 2. INTERESTS & HOBBIES
+**Primary Interests:** Technology, gaming (specifically Manor Lords and possibly One Piece), and social issues (Medium Confidence)
+**Hobbies:** Gaming, possibly watching movies or anime (given the reference to Edgerunners), and engaging in online discussions (High Confidence)
+**Expertise Areas:** Manor Lords gameplay, iOS development, and spatial computing (Medium Confidence)
+**Citations:** 
+- The user's frequent posts and comments in r/ManorLords demonstrate a strong interest in the game ("Sorry to hear that man, in the future you may want to have multiple granaries" - https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/).
+- Their posts about iOS development and spatial computing, such as "Spacial tours with 3D map and 360˚ video" (https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/), show expertise in these areas.
+- The mention of watching Edgerunners on the moon ("Watching Edgerunners on the moon feels" - https://reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/) suggests an interest in anime or futuristic media.
+
+## 3. PERSONALITY TRAITS
+**Communication Style:** Informal, helpful, and occasionally humorous (Medium Confidence)
+**Social Behavior:** Engaging, supportive, and sometimes opinionated (Medium Confidence)
+**Emotional Patterns:** Analytical, with moments of frustration or disappointment (Medium Confidence)
+**Citations:** 
+- The user's comments often provide helpful advice or insights, such as "You have to kill the bandit units, or donate crop yields though the manor (tithing, different from taxation)" (https://reddit.com/r/ManorLords/comments/1lscpmo/how_does_influence_on_hard_work/n1hhd7z/), showing a supportive communication style.
+- Their posts sometimes express frustration, like feeling violated by intern season, indicating emotional patterns that include disappointment or annoyance.
+- Humor is occasionally present, as in their comment about wearing a toga on a date ("I wore a toga. she showed up in regular clothes" - https://reddit.com/r/AskReddit/comments/1ksghx5/what_happened_on_the_first_date_that_made_you/mtnzw3v/).
+
+## 4. VALUES & BELIEFS
+**Core Values:** Importance of community, fairness, and possibly personal freedom (Medium Confidence)
+**Political/Social Views:** Not strongly apparent, but possibly leans towards progressive or liberal views given participation in discussions about exploitation and social issues (Low Confidence)
+**Moral Frameworks:** Believes in fairness and the importance of considering the impact of one's actions on others (Medium Confidence)
+**Citations:** 
+- The user's posts about H1B holders and exploitation ("H1B holders, what are your thoughts on the narrative that you are being exploited?" - https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/) suggest a value on fairness and consideration for others.
+- Their engagement in r/AskReddit discussions about various social issues indicates an interest in community and social welfare.
+
+## 5. TECHNOLOGY USAGE
+**Tech Savviness:** High, given their involvement in iOS development and spatial computing (High Confidence)
+**Platform Preferences:** Active on Reddit, with possible presence on other platforms like X (mentioned in a comment about NFTs) (Medium Confidence)
+**Digital Behavior:** Regularly posts and comments on Reddit, with a focus on tech and gaming communities (High Confidence)
+**Citations:** 
+- The user's detailed questions and discussions about iOS development and spatial computing ("Best blogs, tutorial channels to learn" - https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/) demonstrate a high level of tech savviness.
+- Their comment about the hype around NFTs and the shift to Solana memecoins ("the hype has definitely faded, you can see that with the price as well as the number of people discussing it on X" - https://reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/) suggests familiarity with other digital platforms.
+
+## 6. SOCIAL MEDIA BEHAVIOR
+**Engagement Style:** Engaging, with a mix of seeking advice, sharing experiences, and providing help to others (Medium Confidence)
+**Content Preference:** Tech, gaming, and social issues, with occasional posts about personal experiences or opinions (Medium Confidence)
+**Community Participation:** Active in several subreddits, indicating a preference for community interaction and discussion (High Confidence)
+**Citations:** 
+- The user's posts and comments across various subreddits (e.g., r/ManorLords, r/AskReddit, r/VisionPro) demonstrate an engaging style, seeking to both learn from and contribute to the community.
+- Their participation in discussions about social issues and personal experiences, such as the post about feeling violated by intern season, shows a preference for content that sparks interaction and debate.
+
+## 7. GOALS & MOTIVATIONS
+**Apparent Goals:** To learn and share knowledge about tech and gaming, and to engage in discussions about social issues (Medium Confidence)
+**Motivations:** Desire for community, learning, and possibly self-improvement (Medium Confidence)
+**Challenges:** Balancing personal interests with the desire to contribute to and learn from online communities (Low Confidence)
+**Citations:** 
+- The user's frequent participation in tech and gaming discussions suggests a goal of learning and sharing knowledge ("Spacial tours with 3D map and 360˚ video" - https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/).
+- Their engagement in social issue discussions, like the posts about H1B holders, indicates a motivation to understand and contribute to broader social conversations.
+
+## 8. CONFIDENCE ASSESSMENT
+**High Confidence Traits:** Tech savviness, engagement style, and community participation
+**Medium Confidence Traits:** Age range, occupation/field, primary interests, hobbies, expertise areas, personality traits, values and beliefs, and goals
+**Low Confidence Traits:** Political/social views, moral frameworks, and challenges
+
+Given the analysis, it's clear that the user is highly engaged in tech and gaming communities, values fairness and community, and is motivated by a desire to learn and contribute. However, some aspects, such as their political views and specific challenges, are less clear and would require more data for a confident assessment.
+
+==================================================
+DATA SOURCES
+==================================================
+
+RECENT POSTS:
+1. I feel violated by intern season
+   r/newyorkcity | Score: 0
+   https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+2. H1B holders, what are your thoughts on the narrative that you are being exploited?
+   r/AskReddit | Score: 1
+   https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/
+
+3. H1B holders, do you feel exploited, or see it as an opportunity to build a better life for you in the US?
+   r/AskReddit | Score: 1
+   https://reddit.com/r/AskReddit/comments/1hnx7lj/h1b_holders_do_you_feel_exploited_or_see_it_as_an/
+
+4. What needs to happen for the league to review the inconsistencies of the refs?
+   r/nba | Score: 1
+   https://reddit.com/r/nba/comments/1hcopxo/what_needs_to_happen_for_the_league_to_review_the/
+
+5. Are you guys for/against banning Tiktok in the US?
+   r/Conservative | Score: 1
+   https://reddit.com/r/Conservative/comments/1h8ddbp/are_you_guys_foragainst_banning_tiktok_in_the_us/
+
+RECENT COMMENTS:
+1. r/ManorLords | Score: 11
+   Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/hon...
+   https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/
+
+2. r/ManorLords | Score: 3
+   Yeah but it doesn’t seem to affect much though...
+   https://reddit.com/r/ManorLords/comments/1lwfdh8/anyone_else_having_an_issue_where_their_trading/n2dn0vm/
+
+3. r/ChatGPT | Score: 2
+   Incredible stuff! How did you maintain character consistency? Did you generate a consistent character image and then use the image-to-video feature?...
+   https://reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/n2b07h0/
+
+4. r/ManorLords | Score: 3
+   I do too but I rarely finish a game haha. Too little late game content...
+   https://reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i5k2p/
+
+5. r/ManorLords | Score: 7
+   I do too but I rarely finish a game haha. Too little late game content...
+   https://reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i52vu/
+
