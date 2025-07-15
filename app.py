@@ -86,6 +86,7 @@ def main():
             config.MAX_POSTS = posts_limit
             config.MAX_COMMENTS = comments_limit
             user_data = scraper.get_user_data(username)
+            file_handler.save_raw_user_data(username, user_data)
             
             # Step 2: Show summary
             progress.progress(50)
@@ -112,14 +113,33 @@ def main():
             if persona_data.get('metadata', {}).get('is_json', False):
                 st.success("✅ Generated visual persona card!")
                 
-                # Render the visual persona card
-                st.header("🎨 Visual Persona Card")
+                # Render the visual persona card (DISABLED)
                 renderer.render_lucas_style_persona(persona_data)
+
+                # Show raw JSON data in expandable section
+                with st.expander("📊 Raw JSON Data"):
+                    st.json(persona_data)
+    
                 
-                # Also show text version in expander
-                with st.expander("📄 Text Analysis"):
-                    st.write(persona_data.get('analysis', 'No text analysis available'))
-                
+                citations = persona_data.get('citations', [])
+                if citations:
+                    with st.expander("📚 Supporting Evidence"):
+                        for i, citation in enumerate(citations, 1):
+                            st.write(f"**{i}.** {citation}")
+
+                with st.expander("ℹ️ Analysis Metadata"):
+                    metadata = persona_data.get('metadata', {})
+                    st.write(f"**Model:** {metadata.get('model_used', 'Unknown')}")
+                    st.write(f"**Timestamp:** {metadata.get('timestamp', 'Unknown')}")
+                    st.write(f"**Posts Analyzed:** {metadata.get('posts_analyzed', 0)}")
+                    st.write(f"**Comments Analyzed:** {metadata.get('comments_analyzed', 0)}")
+                    
+                    top_subreddits = metadata.get('top_subreddits', [])
+                    if top_subreddits:
+                        st.write("**Top Subreddits:**")
+                        for sub, count in top_subreddits:
+                            st.write(f"- r/{sub} ({count} posts/comments)")
+                            
             else:
                 # Fallback to text display
                 st.warning("⚠️ Got text response instead of JSON, showing text analysis:")
@@ -132,7 +152,7 @@ def main():
             
             # Display results
             st.header("📋 Persona Analysis")
-            st.write(persona_data['analysis'])
+            st.write(persona_data.get('analysis', 'No analysis available'))
             
             # Download button
             with open(filepath, 'r', encoding='utf-8') as f:
@@ -161,7 +181,7 @@ def main():
             st.success(f"✅ Analysis saved to: {filepath}")
             
         except Exception as e:
-            st.error(f"❌ Error: {str(e)}")
+            # st.error(f"❌ Error: {str(e)}")
             progress.progress(0)
             status.text("")
 

@@ -1,4 +1,5 @@
 import os
+import json
 from datetime import datetime
 from typing import Dict
 
@@ -7,6 +8,16 @@ class FileHandler:
         self.output_dir = output_dir
         os.makedirs(output_dir, exist_ok=True)
     
+    def save_raw_user_data(self, username: str, user_data: Dict):
+        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+        filename = f"{username}_raw_{timestamp}.json"
+        filepath = os.path.join(self.output_dir, filename)
+        
+        with open(filepath, 'w', encoding='utf-8') as f:
+            json.dump(user_data, f, indent=2)
+        
+        return filepath
+
     def save_persona(self, username: str, persona_data: Dict, user_data: Dict) -> str:
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
         filename = f"{username}_persona_{timestamp}.txt"
