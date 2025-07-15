@@ -1,0 +1,122 @@
+REDDIT USER PERSONA ANALYSIS
+==================================================
+
+Username: kojied
+Analysis Date: 2025-07-15 00:36:21
+Account Age: 2020 days
+Total Karma: 2039
+Posts Analyzed: 25
+Comments Analyzed: 25
+
+PERSONA ANALYSIS
+------------------------------
+
+## 1. DEMOGRAPHICS
+**Age Range:** 25-40 years old (Medium Confidence)
+**Location:** New York City (High Confidence)
+**Occupation/Field:** Possibly a developer or someone interested in technology, given their posts in r/VisionPro and r/visionosdev (Medium Confidence)
+**Citations:** 
+- The user mentions a bar "a few blocks away from my house" in a "different neighborhood" in [POST #1](https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/), indicating they live in New York City.
+- Their interest in VisionOS and spacial computing, as seen in [POST #7](https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/) and [POST #8](https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/), suggests a background or interest in development or technology.
+
+## 2. INTERESTS & HOBBIES
+**Primary Interests:** Technology, gaming (especially Manor Lords), and social issues (High Confidence)
+**Hobbies:** Playing video games, exploring new technologies, and possibly dining out, given their comment in [COMMENT #11](https://reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/mxxhvpf/) (Medium Confidence)
+**Expertise Areas:** Manor Lords gameplay, VisionOS/spacial computing (High Confidence)
+**Citations:** 
+- Their frequent posts and comments in r/ManorLords, such as [COMMENT #1](https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/), show a deep interest and expertise in the game.
+- Posts like [POST #7](https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/) demonstrate their interest in cutting-edge technology.
+
+## 3. PERSONALITY TRAITS
+**Communication Style:** Generally helpful and informative, with a casual tone (High Confidence)
+**Social Behavior:** Engaging and supportive, often offering advice or insights in comments like [COMMENT #1](https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/) (High Confidence)
+**Emotional Patterns:** Analytical, with a tendency to explore topics in depth, as seen in their posts about technology and gaming (Medium Confidence)
+**Citations:** 
+- The user's response in [COMMENT #3](https://reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/n2b07h0/) shows an analytical and curious mindset.
+- Their engagement in discussions, such as [COMMENT #7](https://reddit.com/r/ManorLords/comments/1lq4lst/this_is_acceptable/n1089i9/), indicates a willingness to share knowledge and help others.
+
+## 4. VALUES & BELIEFS
+**Core Values:** Importance of community and knowledge sharing, as evident from their active participation in subreddits (Medium Confidence)
+**Political/Social Views:** Not explicitly stated, but their participation in discussions about social issues, like [POST #2](https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/), suggests an interest in social discourse (Low Confidence)
+**Moral Frameworks:** Not enough data to determine specific moral frameworks, but their helpful comments suggest a supportive attitude towards others (Low Confidence)
+**Citations:** 
+- The user's engagement in r/AskReddit, particularly in discussions about social issues, indicates an interest in exploring different perspectives.
+- However, without more explicit statements, it's challenging to determine their specific political or social views.
+
+## 5. TECHNOLOGY USAGE
+**Tech Savviness:** High, given their interest and proficiency in discussing advanced technologies like VisionOS and spacial computing (High Confidence)
+**Platform Preferences:** Active on Reddit, with a preference for discussing technology and gaming topics (High Confidence)
+**Digital Behavior:** Regularly posts and comments, indicating an active online presence (High Confidence)
+**Citations:** 
+- Posts like [POST #7](https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/) and [POST #8](https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/) demonstrate their tech savviness and preference for discussing technology on Reddit.
+- Their frequent engagement across various subreddits shows an active digital behavior.
+
+## 6. SOCIAL MEDIA BEHAVIOR
+**Engagement Style:** Engaging, with a focus on providing helpful information and insights (High Confidence)
+**Content Preference:** Technology, gaming, and social issues, as seen from their posting and commenting history (High Confidence)
+**Community Participation:** Active participant in several communities, including r/ManorLords, r/VisionPro, and r/AskReddit (High Confidence)
+**Citations:** 
+- The user's comments in r/ManorLords, such as [COMMENT #1](https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/), show a commitment to community engagement.
+- Their posts in r/VisionPro and r/AskReddit demonstrate a preference for discussing a variety of topics, from technology to social issues.
+
+## 7. GOALS & MOTIVATIONS
+**Apparent Goals:** To share knowledge, learn from others, and engage in discussions about technology and gaming (Medium Confidence)
+**Motivations:** Interest in technology, desire for community engagement, and possibly a need for self-expression or recognition (Medium Confidence)
+**Challenges:** Not explicitly stated, but may include staying updated with the latest technologies or finding like-minded individuals for discussion (Low Confidence)
+**Citations:** 
+- The user's participation in discussions and their effort to share insights, as seen in [COMMENT #7](https://reddit.com/r/ManorLords/comments/1lq4lst/this_is_acceptable/n1089i9/), suggest a motivation to contribute to the community.
+- However, without more direct statements, it's challenging to determine their specific goals or challenges.
+
+## 8. CONFIDENCE ASSESSMENT
+**High Confidence Traits:** Tech savviness, engagement style, community participation, and expertise in Manor Lords and VisionOS/spacial computing
+**Medium Confidence Traits:** Age range, occupation/field, interests, personality traits, values, and goals
+**Low Confidence Traits:** Political/social views, moral frameworks, and specific challenges
+
+This analysis is based on the provided Reddit user data and aims to create a comprehensive user persona. The confidence levels are assigned based on the availability and clarity of the evidence supporting each trait.
+
+==================================================
+DATA SOURCES
+==================================================
+
+RECENT POSTS:
+1. I feel violated by intern season
+   r/newyorkcity | Score: 0
+   https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+2. H1B holders, what are your thoughts on the narrative that you are being exploited?
+   r/AskReddit | Score: 1
+   https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/
+
+3. H1B holders, do you feel exploited, or see it as an opportunity to build a better life for you in the US?
+   r/AskReddit | Score: 1
+   https://reddit.com/r/AskReddit/comments/1hnx7lj/h1b_holders_do_you_feel_exploited_or_see_it_as_an/
+
+4. What needs to happen for the league to review the inconsistencies of the refs?
+   r/nba | Score: 1
+   https://reddit.com/r/nba/comments/1hcopxo/what_needs_to_happen_for_the_league_to_review_the/
+
+5. Are you guys for/against banning Tiktok in the US?
+   r/Conservative | Score: 1
+   https://reddit.com/r/Conservative/comments/1h8ddbp/are_you_guys_foragainst_banning_tiktok_in_the_us/
+
+RECENT COMMENTS:
+1. r/ManorLords | Score: 12
+   Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/hon...
+   https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/
+
+2. r/ManorLords | Score: 3
+   Yeah but it doesn’t seem to affect much though...
+   https://reddit.com/r/ManorLords/comments/1lwfdh8/anyone_else_having_an_issue_where_their_trading/n2dn0vm/
+
+3. r/ChatGPT | Score: 2
+   Incredible stuff! How did you maintain character consistency? Did you generate a consistent character image and then use the image-to-video feature?...
+   https://reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/n2b07h0/
+
+4. r/ManorLords | Score: 3
+   I do too but I rarely finish a game haha. Too little late game content...
+   https://reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i5k2p/
+
+5. r/ManorLords | Score: 8
+   I do too but I rarely finish a game haha. Too little late game content...
+   https://reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i52vu/
+

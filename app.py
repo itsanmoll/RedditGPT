@@ -4,6 +4,7 @@ from core.config import config
 from core.reddit_scraper import RedditScraper
 from core.llm_utils import PersonaAnalyzer
 from utils.file_handler import FileHandler
+from utils.persona_render import PersonaRenderer 
 
 # Page config
 st.set_page_config(
@@ -65,6 +66,7 @@ def main():
         scraper = RedditScraper()
         analyzer = PersonaAnalyzer()
         file_handler = FileHandler()
+        renderer = PersonaRenderer()
         
         # Extract username
         username = scraper.extract_username(profile_url)
@@ -106,6 +108,24 @@ def main():
             # Step 4: Save and display
             progress.progress(100)
             status.text("✅ Complete!")
+
+            if persona_data.get('metadata', {}).get('is_json', False):
+                st.success("✅ Generated visual persona card!")
+                
+                # Render the visual persona card
+                st.header("🎨 Visual Persona Card")
+                renderer.render_lucas_style_persona(persona_data)
+                
+                # Also show text version in expander
+                with st.expander("📄 Text Analysis"):
+                    st.write(persona_data.get('analysis', 'No text analysis available'))
+                
+            else:
+                # Fallback to text display
+                st.warning("⚠️ Got text response instead of JSON, showing text analysis:")
+                st.header("📋 Persona Analysis")
+                st.write(persona_data.get('analysis', 'No analysis available'))
+            
             
             # Save file
             filepath = file_handler.save_persona(username, persona_data, user_data)
